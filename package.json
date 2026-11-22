@@ -1,0 +1,8 @@
+{
+  "name": "espirital",
+  "version": "1.3.0",
+  "description": "Espirital - jogo e servidor online",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
